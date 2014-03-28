@@ -10,7 +10,7 @@
         android:theme="@style/Tek"
         android:name=".TekApp">
         <activity
-            android:name=".activities.ActivitiyMain"
+            android:name=".activities.ActivityMain"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

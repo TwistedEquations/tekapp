@@ -2,4 +2,8 @@
 <resources>
     <color name="windowBackgrouund">#232323</color>
     <color name="actionBarBackgrouund">#0E0E0E</color>
+    <color name="white">#ffffff</color>
+    <color name="translutentBlack">#99000000</color>
+    <color name="black">#000000</color>
+    <color name="gray">#cccccc</color>
 </resources>

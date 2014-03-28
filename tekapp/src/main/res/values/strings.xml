@@ -5,4 +5,6 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 
+    <string name="api_key">AIzaSyDWHiFbKZy0K3HPydxG8r-FSvaVK2lsDiE</string>
+
 </resources>

@@ -26,4 +26,6 @@ public class Node extends Model {
     @SerializedName("term_node_tid")
     public String temNodeId;
 
+    public String created;
+
 }
